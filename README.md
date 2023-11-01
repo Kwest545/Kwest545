@@ -1,3 +1,5 @@
+<h1 align="center">Merhaba 👋, ben Kwest.</h1>
+<h3 align="center">Türkiye'den tutkulu bir ön uç geliştiricisi</h3>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/xfMCrrCVr4) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kwestaex) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/kwestaex) 
