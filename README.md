@@ -1,5 +1,3 @@
-
- [![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.savoye.com%2Fus%2Fressource%2Fkwest-warehouse-execution-system%2F&psig=AOvVaw2UNB8_5K_ka5xpIui6WXjN&ust=1698957744644000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLjs5_jUo4IDFQAAAAAdAAAAABAa)
 <h1 align="center">Merhaba 👋, ben Kwest.</h1>
 <h3 align="center">Türkiye'den tutkulu bir ön uç geliştiricisi</h3>
 
